@@ -1,0 +1,1 @@
+# testare_manuala_jira
